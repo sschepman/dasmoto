@@ -1,0 +1,29 @@
+body{
+  font-family: Arial;
+}
+h1.title{
+  color: khaki;
+  background-image:
+    url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
+  text-align: center;
+  font-size: 130px;
+  font-family: Arial;
+}
+.headingone{
+  background-color: springgreen;
+  color: white;
+  font-size: 35px;
+}
+.headingtwo{
+  background-color: lightcoral;
+  color: white;
+  font-size: 35px;
+}
+.headingthree{
+  background-color: skyblue;
+  color: white;
+  font-size: 35px;
+}
+.price{
+  color: blue;
+}
